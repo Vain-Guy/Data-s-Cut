@@ -97,6 +97,9 @@ Data-s-Cut/
 2. Review `final.ipynb` for comprehensive analysis and recommendations
 3. Examine the Tableau report for advanced visualizations
 
+### 📊 Interactive Dashboard
+Explore the interactive Tableau dashboard: [AHJIN Studios Data Analysis Dashboard](https://public.tableau.com/views/AHJINStudiosDataAnalysis/AHJINStudiosDataAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## 📈 Key Findings & Insights
 
 ### 🎬 Release Strategy Optimization
