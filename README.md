@@ -180,6 +180,7 @@ Mary - https://www.linkedin.com/in/marykamithi?utm_source=share&utm_campaign=sha
 
 Norman - https://www.linkedin.com/in/norman-mwapea-49502a264/
 
+Joshua - https://www.linkedin.com/in/joshua-kiluu-441806258/
 
 
 **Note**: This analysis is designed to inform strategic decision-making at a fictional newbie movie studio (Ahjin Studios). All recommendations should be considered alongside creative vision and market intuition.
