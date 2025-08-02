@@ -175,8 +175,12 @@ This analysis offers a strategic playbook for emerging studios aiming to compete
 ## Contact
 
 For questions about this analysis, please contact the data science team:
+
 Mary - https://www.linkedin.com/in/marykamithi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 Norman - https://www.linkedin.com/in/norman-mwapea-49502a264/
+
+
 
 **Note**: This analysis is designed to inform strategic decision-making at a fictional newbie movie studio (Ahjin Studios). All recommendations should be considered alongside creative vision and market intuition.
 
