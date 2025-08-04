@@ -182,6 +182,8 @@ Norman - https://www.linkedin.com/in/norman-mwapea-49502a264/
 
 Joshua - https://www.linkedin.com/in/joshua-kiluu-441806258/
 
+Fridah - https://www.linkedin.com/in/fridah-njunge-b93bb1183?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 
 **Note**: This analysis is designed to inform strategic decision-making at a fictional newbie movie studio (Ahjin Studios). All recommendations should be considered alongside creative vision and market intuition.
 
